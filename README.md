@@ -1,7 +1,8 @@
-FizzBuzz Exercise
-=================
+FizzBuzz
+========
 
 An exercise using variables, operators, strings, numbers, and loops.
+
 
 Description
 -----------
@@ -35,10 +36,12 @@ FizzBuzz
 Fizz
 19
 Buzz
+...
 ```
 
 Run `node fizzbuzz.js` and review its output to ensure it is functioning
 correctly.
+
 
 Testing
 -------
@@ -48,6 +51,7 @@ If you want to test your code as you are going along, you can run this command:
 ```sh
 node test
 ```
+
 
 Extra Credit
 ------------
