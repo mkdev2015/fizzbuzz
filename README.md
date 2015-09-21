@@ -7,10 +7,10 @@ An exercise using variables, operators, strings, numbers, and loops.
 Description
 -----------
 
-Create a file called “fizzbuzz.js”, which [logs][Console.log] the numbers from 
-**1 to 100** to the console, but for multiples of three (3), log the word “Fizz”
-instead of the number, and for multiples of five (5) log “Buzz”, and for numbers
-which are multiples of both three and five, log “FizzBuzz”.
+Create a file called “fizzbuzz.js”, which logs the numbers from  **1 to 100** to
+the console, but for multiples of three (3), log the word “Fizz” instead of the
+number, and for multiples of five (5) log “Buzz”, and for numbers which are 
+multiples of both three and five, log “FizzBuzz”.
 
 For instance, the first twenty lines of output from the program would look like
 this:
@@ -51,6 +51,13 @@ If you want to test your code as you are going along, you can run this command:
 ```sh
 node test
 ```
+
+
+Hints
+-----
+
+See [References](#references) for links to operators and language features that
+will be helpful in completing this assignment.
 
 
 Extra Credit
